@@ -1,7 +1,7 @@
 /*
-Day 1: Secret Entrance
+Day 9: Movie Theater
 
-Source: https://adventofcode.com/2025/day/1
+Source: https://adventofcode.com/2025/day/9
 */
 package main
 
